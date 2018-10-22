@@ -1,2 +1,3 @@
 # javiloria.github.io
-probando
+Estudiante del 7mo semestre de Ingenieria Informatica
+
